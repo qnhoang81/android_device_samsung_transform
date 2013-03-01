@@ -73,7 +73,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     mobiledata.interfaces=eth0,gprs,ppp0 \
     net.connectivity.type=CDMA1 \
     ro.telephony.ril_class=samsung \
-    ro.ril.samsung_cdma=true
+    ro.ril.samsung_cdma=true \
     dalvik.vm.dexopt-flags=m=y \
     dalvik.vm.execution-mode=int:jit 
 
